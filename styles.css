@@ -3,11 +3,11 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-
   padding-top: 10rem;
   padding-bottom: 20rem;
   margin-right: 25rem;
   margin-left: 25rem;
+  border: solid;
 }
 
 h1 {
