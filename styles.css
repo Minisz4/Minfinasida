@@ -5,9 +5,10 @@
   align-items: center;
   padding-top: 10rem;
   padding-bottom: 20rem;
-  margin-right: 35rem;
-  margin-left: 35rem;
+  margin-right: 45rem;
+  margin-left: 45rem;
   border: solid;
+  border-color: red;
 }
 
 h1 {
