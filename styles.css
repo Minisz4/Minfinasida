@@ -3,11 +3,10 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  padding-right: 20rem;
-  padding-left: 20rem;
+  padding-right: 10rem;
+  padding-left: 10rem;
   padding-top: 10rem;
   padding-bottom: 20rem;
-
   margin-right: 25rem;
   margin-left: 25rem;
 }
